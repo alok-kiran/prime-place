@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "prime-place",
-    "slug": "prime-place",
+    "name": "Prime Place",
+    "slug": "prime_place",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
